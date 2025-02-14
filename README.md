@@ -1,5 +1,11 @@
-# system_settings
+# `.dotfiles`
 Here I will provide some scripts/configs to easily set Ubuntu to my settings.
+
+## Check that `curl` is presented
+Run the following command and the output shouldn't be error-like
+```shell
+curl -V
+```
 
 ## How to install
 
